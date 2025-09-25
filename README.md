@@ -23,6 +23,7 @@
 # 배운기술
 
 c, c++, java, oracle, html, css, js
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonstudy9)](https://github.com/dragonstudy9/github-readme-stats)
 
 # 주요작품
 
@@ -34,6 +35,7 @@ vue와 express를 활용하여 은행 시스템을 구현해본 개인 프로젝
 # 학력사항
 
 인하공업전문대학 컴퓨터시스템과 졸업
+
 
 <!--
 - 🔭 I’m currently working on ...
