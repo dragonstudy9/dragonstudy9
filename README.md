@@ -26,7 +26,7 @@ c, c++, java, oracle, html, css, js
 
 <img src="https://github-readme-stats.vercel.app/api?username=dragonstudy9&show_icons=true&theme=dark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonstudy9)](https://github.com/dragonstudy9/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonstudy9)
 
 # 주요작품
 
