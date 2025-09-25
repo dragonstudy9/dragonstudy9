@@ -22,17 +22,18 @@
 
 # 배운기술
 
-c, c++, java, oracle, linux, html, css, js
+c, c++, java, oracle, html, css, js
 
 # 주요작품
 
-원정은행 프로젝트: https://github.com/dragonstudy9/bank_project.git
+## 원정은행 프로젝트
+https://github.com/dragonstudy9/bank_project.git
+
+vue와 express를 활용하여 은행 시스템을 구현해본 개인 프로젝트
 
 # 학력사항
 
 인하공업전문대학 컴퓨터시스템과 졸업
-
-#  
 
 <!--
 - 🔭 I’m currently working on ...
