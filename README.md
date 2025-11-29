@@ -31,7 +31,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dragonstudy9&show_icons=true&theme=dark"/>
 
 
 # 주요작품
