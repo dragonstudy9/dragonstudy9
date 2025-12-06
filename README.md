@@ -35,10 +35,26 @@
 
 # 주요작품
 
-## 원정은행 프로젝트
+## 개인프로젝트
+
+### 원정은행 프로젝트
 https://github.com/dragonstudy9/bank_project.git
 
 vue와 express를 활용하여 은행 시스템을 구현해본 개인 프로젝트
+
+### 명언집 프로젝트
+https://github.com/dragonstudy9/Quote_project.git
+
+react와 express를 활용하여 사용자 각자가 의미있게 여기는 명언들을 게시해서 다른 사용자들도 볼 수 있게 만든 개인 프로젝트
+
+## 팀프로젝트
+
+### 디저트 연구소
+https://github.com/chchjjj/teamProject.git
+
+소비자도 판매자도 편리하게 이용하는 디저트 중개 플랫폼!
+
+로그인, 회원가입, 아이디 찾기, 비밀번호 찾기, 결제 페이지 담당
 
 # 학력사항
 
