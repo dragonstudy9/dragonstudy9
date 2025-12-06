@@ -30,9 +30,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-
-
-
 # 주요작품
 
 ## 개인프로젝트
@@ -54,7 +51,7 @@ https://github.com/chchjjj/teamProject.git
 
 소비자도 판매자도 편리하게 이용하는 디저트 중개 플랫폼!
 
-로그인, 회원가입, 아이디 찾기, 비밀번호 찾기, 결제 페이지 담당
+담당 역할: 로그인, 회원가입, 아이디 찾기, 비밀번호 찾기, 결제( + 배송지 선택 팝업)
 
 # 학력사항
 
