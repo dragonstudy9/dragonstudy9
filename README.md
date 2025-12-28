@@ -1,70 +1,93 @@
-# 인사말 👋
+# 🚀 Projects
 
-안녕하세요! 조원정입니다. 
+다양한 프로젝트를 통해  
+**기능 구현, 오류 대응, 협업 경험**을 쌓아왔습니다.
 
-개발자로 취업하고 싶습니다. 
+---
+## 🤝 팀 프로젝트
 
-현재 인천더조은컴퓨터아카데미에서 풀스택 과정을 배우고 있습니다.
+### 🍰 디저트 연구소
+🔗 https://github.com/chchjjj/teamProject.git
 
-감사합니다.
+**소비자와 판매자를 연결하는 디저트 중개 플랫폼**
 
-# 기본정보
+**담당 역할**
+- 로그인 / 회원가입
+- 아이디 / 비밀번호 찾기
+- 결제 & 배송지 선택 팝업
 
-주소: 인천 부평
+---
 
-생년: 2000
+## 🧑‍💻 개인 프로젝트
 
-이메일: dragonstudy9@gmail.com
+### 🏦 원정은행 프로젝트
+🔗 https://github.com/dragonstudy9/bank_project.git
 
-# 자격사항
+**Vue + Express 기반 은행 시스템 구현**
 
-정보처리산업기사
+- 계좌 생성 / 입출금 / 거래 내역 관리
+- 사용자 상태에 따른 기능 분기 처리
+- 프론트–백엔드 데이터 흐름 설계 경험
+- 실제 서비스 구조를 고려한 CRUD 설계
 
-# 배운기술
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 💬 명언집 프로젝트
+🔗 https://github.com/dragonstudy9/Quote_project.git
 
-# 주요작품
+**React + Express 기반 사용자 참여형 게시 서비스**
 
-## 개인프로젝트
+- 명언 등록 / 조회 / 공유 기능
+- 사용자 관점 UI 흐름 설계
+- API 연동 및 상태 관리 경험
+- 입력값 검증 및 예외 처리 구현
 
-### 원정은행 프로젝트
-https://github.com/dragonstudy9/bank_project.git
+---
 
-vue와 express를 활용하여 은행 시스템을 구현해본 개인 프로젝트
+# 🛠 Tech Stack
 
-### 명언집 프로젝트
-https://github.com/dragonstudy9/Quote_project.git
+**Backend**
+- Java
+- Spring
+- Express.js
+- JSP
+- Node.js
+- 
 
-react와 express를 활용하여 사용자 각자가 의미있게 여기는 명언들을 게시해서 다른 사용자들도 볼 수 있게 만든 개인 프로젝트
+**Frontend**
+- HTML5
+- JavaScript
+- Vue.js
+- React
+- Flutter
 
-## 팀프로젝트
+**etc.**
+- Oracle DB
+- MySQL
+- AWS
+- Linux
 
-### 디저트 연구소
-https://github.com/chchjjj/teamProject.git
+---
 
-소비자도 판매자도 편리하게 이용하는 디저트 중개 플랫폼!
+# 📄 Qualification
 
-담당 역할: 로그인, 회원가입, 아이디 찾기, 비밀번호 찾기, 결제( + 배송지 선택 팝업)
+- 정보처리산업기사
 
-# 학력사항
+---
 
-인하공업전문대학 컴퓨터시스템과 졸업
+# 🎓 Education
 
+- 인하공업전문대학 컴퓨터시스템과 졸업
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🙋 About Me
+
+안녕하세요, **조원정**입니다.  
+소프트웨어의 동작 원리와 사용자 흐름을 함께 고려하며 문제를 해결하려고 노력합니다.
+
+- 기능 구현뿐 아니라 오류 원인 분석과 개선에도 관심이 있습니다.
+- 팀 프로젝트 경험을 통해 협업의 중요성을 이해하고 있습니다.
+
+📍 인천 부평  
+📧 dragonstudy9@gmail.com
