@@ -63,6 +63,7 @@
 - Express.js
 - JSP
 - Node.js
+- Firebase
 
 **Frontend**
 - HTML5
@@ -76,7 +77,6 @@
 - MySQL
 - AWS
 - Linux
-- Firebase
 
 ---
 
