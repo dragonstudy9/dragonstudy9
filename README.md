@@ -72,7 +72,7 @@
 - React
 - Flutter
 
-**etc.**
+**Etc.**
 - Oracle DB
 - MySQL
 - AWS
