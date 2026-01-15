@@ -72,7 +72,7 @@
 - Express.js
 - JSP
 - Node.js
-- Firebase
+- Firestore
 
 **Frontend**
 - HTML5
