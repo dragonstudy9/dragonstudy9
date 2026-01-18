@@ -20,7 +20,7 @@
 ### 🍰 디저트 연구소
 🔗 https://github.com/chchjjj/teamProject.git
 
-**(Spring 기반) 소비자와 판매자를 연결하는 디저트 중개 플랫폼**
+**(Spring boot 기반) 소비자와 판매자를 연결하는 디저트 중개 플랫폼**
 
 **담당 역할**
 - 로그인 / 회원가입
