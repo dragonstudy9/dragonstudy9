@@ -20,7 +20,7 @@
 ### 🍰 디저트 연구소
 🔗 https://github.com/chchjjj/teamProject.git
 
-**소비자와 판매자를 연결하는 디저트 중개 플랫폼**
+**(Spring 기반) 소비자와 판매자를 연결하는 디저트 중개 플랫폼**
 
 **담당 역할**
 - 로그인 / 회원가입
@@ -32,7 +32,7 @@
 ### 🎲 문화재 마블
 🔗 https://github.com/hee8144/teamproject.git
 
-**주사위로 떠나는 우리 문화유산 여행**
+**(Flutter 기반) 주사위로 떠나는 우리 문화유산 여행**
 
 **담당 역할** : 초기 화면 / 메인 화면 / 게임 규칙 설명 / 게임 대기 방 / 게임 결과
 
@@ -43,7 +43,7 @@
 ### 🏦 원정은행 프로젝트
 🔗 https://github.com/dragonstudy9/bank_project.git
 
-**Vue + Express 기반 은행 시스템 구현**
+**(Vue + Express 기반) 은행 시스템 구현**
 
 - 계좌 생성 / 입출금 / 거래 내역 관리
 - 사용자 상태에 따른 기능 분기 처리
@@ -55,7 +55,7 @@
 ### 💬 명언집 프로젝트
 🔗 https://github.com/dragonstudy9/Quote_project.git
 
-**React + Express 기반 사용자 참여형 게시 서비스**
+**(React + Express 기반) 사용자 참여형 게시 서비스**
 
 - 명언 등록 / 조회 / 공유 기능
 - 사용자 관점 UI 흐름 설계
